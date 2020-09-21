@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ornek_proje</string>
+    <string name="settings">Ayarlar</string>
+    <string name="account">Hesap</string>
+    <string name="search">Arama</string>
+    <string name="home_page">Ana sayfa</string>
+    <string name="trend_page">Trendler</string>
+    <string name="followers_page">Takip ettiklerim</string>
+    <string name="channel_name">Jahrein</string>
+    <string name="video_name">Jahrein-Town of salem</string>
+    <string name="channel_and_video_name">Jahrein
+    Town of salem</string>
+    <string name="video_watched_add_time">1 hafta - 10 mn görüntülenme</string>
+    <string name="video_time">05:00</string>
+    <string name="video">Video:</string>
+    <string name="video_t">video yüklenme tarihi:</string>
+    <string name="video_k">kategori:</string>
+    <string name="kanal">Kanal:</string>
+    <string name="kanal_a">Kanal abone sayısı:</string>
+    <string name="kanal_k">Kanal kategori:</string>
+    <string name="kalite">Kalite</string>
+    <string name="altyazı">Altyazı</string>
+    <string name="username">Kullanıcı Adı:</string>
+    <string name="Password">Şifre:</string>
+    <string name="account_settings">Hesap Ayarları</string>
+    <string name="liked_videos">Beğendiğim Videolar</string>
+    <string name="play_lists">Oynatma Listelerim</string>
+    <string name="watch_after">Sonra izleyeceklerim</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Sign in</string>
+
+</resources>

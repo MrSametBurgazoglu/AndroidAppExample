@@ -1,0 +1,16 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        </style>
+    
+    <style name="app_bar_style" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:background">@color/white_background</item>
+    </style>
+
+    <style name="menu_item_popup_style" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:background">@color/white_background</item>
+        <item name="overlapAnchor">false</item>
+        <item name="android:dropDownVerticalOffset">-4dp</item>
+    </style>
+
+</resources>
